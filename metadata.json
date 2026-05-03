@@ -1,0 +1,6 @@
+{
+  "name": "JejuTogether",
+  "description": "A tangerine-themed Jeju Island travel planner featuring T'way flight integration and Naver Map navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
